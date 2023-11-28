@@ -1,8 +1,8 @@
 # InventarisGroupProject
-Project made by :
-Muhammad Ikbal
-Farsya Alaika
-Galang Yoga Pratama
-Ananda Adkhilny Siddika
-Naufal Afif Bauw
+Project made by Kelompok 1:
+Muhammad Ikbal,
+Farsya Alaika,
+Galang Yoga Pratama,
+Ananda Adkhilny Siddika,
+Naufal Afif Bauw,
 
